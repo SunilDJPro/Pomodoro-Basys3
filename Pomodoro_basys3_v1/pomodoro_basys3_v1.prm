@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX1
+Size               4M
+Start Address      0x00000000
+End Address        0x003FFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0021728B    Jan 29 21:43:18 2025    /home/sunildj/Pomodoro-Basys3/Pomodoro_basys3_v1/Pomodoro_basys3_v1.runs/impl_1/top.bit
